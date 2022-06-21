@@ -16,7 +16,7 @@ In this course, I have learned different ways to set color values and how to pai
 
 ### Demo Screeshots
 
-![Cafe Menu Desktop Demo](./readme-images/ColoredMarkers.png "Desktop Demo")
+![Colored Markers Desktop Demo](./readme-images/ColoredMarkers.png "Desktop Demo")
 
 ### Prerequisites
 
