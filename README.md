@@ -8,7 +8,7 @@
   <br />
 
   <h2 align="center">Colored Markers</h2>
-In this course, I have learned different ways to set color values and how to pair colors with each other by building a set of colored markers, The website is built using HTML5 & CSS3.
+In this project, I have learned different ways to set color values and how to pair colors with each other by building a set of colored markers, The website is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/colored-markers/"><strong>➥ Live Demo</strong></a>
 
